@@ -1,25 +1,22 @@
-### Hi there 👋
 # Hi, I'm Junaid TK 👋
 
 <table>
 <tr>
   <td valign="center">
-     
-    🎓 I am **8+ Years Experienced Software Engineer**.
+    🎓 I am **Years Experienced Senior Software Engineer**.
     
     🎓 Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
-  
+    
     🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
     
     🎯 Interested on **developing software Apllication**.
     
     ✨ I love to **code and Design** new applications.
-    
-</td>
+  </td>
 </tr>
 </table>
 
-### <h2 align="center">(https://junaidtk.github.io/)</h2>
+### <h2 align="center">[My Profile](https://junaidtk.github.io/)</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=junaidtk&theme=dracula&hide_border=true)
 
 ## Connect With Me👋🏼
