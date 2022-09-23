@@ -2,17 +2,18 @@
 
 <table>
 <tr>
-  <td valign="center">
-    🎓 I am **Years Experienced Senior Software Engineer**.
-    
-    🎓 Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
-    
-    🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
-    
-    🎯 Interested on **developing software Apllication**.
-    
-    ✨ I love to **code and Design** new applications.
-  </td>
+<td valign="center">
+  
+I am **8+ Year Experienced Senior Software Engineer**.
+  
+Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
+  
+🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
+  
+🎯 Interested on **developing software Apllication**.
+  
+✨ I love to **code and Design** new applications.
+</td>
 </tr>
 </table>
 
