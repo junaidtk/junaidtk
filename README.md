@@ -8,7 +8,7 @@
     
     🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
     
-    🎯 Interested on developing software Apllication.
+    🎯 Interested on **developing software Apllication**.
     
     ✨ I love to **code and Design** new applications.
     
