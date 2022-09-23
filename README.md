@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-### <h2 align="center">[My Gist]([https://junaidtk.github.io/](https://gist.github.com/junaidtk))</h2>
+### <h2 align="center">[My Gist](https://gist.github.com/junaidtk)</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=junaidtk&theme=dracula&hide_border=true)
 
 ## Connect With Me👋🏼
