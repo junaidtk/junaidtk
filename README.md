@@ -4,8 +4,10 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am **8+ Years Experienced Software Engineer** with a demonstrated history of working in the information technology and services industry.
+    🎓 I am **8+ Years Experienced Software Engineer**.
     
+    🎓 Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
+  
     🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
     
     🎯 Interested on **developing software Apllication**.
