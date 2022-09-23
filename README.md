@@ -4,6 +4,8 @@
 <table>
 <tr>
   <td valign="center">
+    
+    🎓 
     🎓 I am **8+ Years Experienced Software Engineer**.
     
     🎓 Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
