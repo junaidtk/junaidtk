@@ -5,9 +5,13 @@
 <tr>
   <td valign="center">
     🎓 I am **8+ Years Experienced Software Engineer** with a demonstrated history of working in the information technology and services industry.
+    
     🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
-    🎯 Interested on developing software Apllication..
+    
+    🎯 Interested on developing software Apllication.
+    
     ✨ I love to **code and Design** new applications.
+    
 </td>
 </tr>
 </table>
