@@ -20,6 +20,16 @@
 ### <h2 align="center">[My Gist](https://gist.github.com/junaidtk)</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=junaidtk&theme=dracula&hide_border=true)
 
+## Technologies⚙️
+
+### Languages✍🏼
+
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+
+
+
 ## Connect With Me👋🏼
 
 <p align="left">  
@@ -39,3 +49,8 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+#### 📫 How to reach me
+
+- Linkedin: [Muhammed Junaid TK](https://www.linkedin.com/in/muhammed-junaid-tk-972087b7/)
+- Email: [junaid9037@gmail.com](mailto://junaid9037@gmail.com)
