@@ -6,7 +6,7 @@
   
 🎓 I am **8+ Year Experienced Senior Software Engineer**.
   
-🎓 Senior WordPress Developer, PHP Developer, Full Stack Developer, Python Developer.
+🎓 **Senior WordPress Developer**, **PHP Developer**, **Full Stack Developer**, **Python Developer**.
   
 🌱 Developed Many **WordPress Plugins and Custom WordPress themes**.
   
