@@ -4,7 +4,7 @@
 <tr>
 <td valign="center">
   
-🎓 I am **9+ Year Experienced Senior Software Engineer**.
+🎓 I am **10+ Year Experienced Senior Software Engineer**.
   
 🎓 **Senior WordPress Developer**, **PHP Developer**, **Full Stack Developer**, **Python Developer**.
   
